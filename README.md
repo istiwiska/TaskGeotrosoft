@@ -36,7 +36,7 @@ to run this project you can run task.feature
 
 
 below i attached the video recording
-https://github.com/istiwiska/TaskGeotrosoft/assets/22950110/8c57c6e5-6aa5-4273-8e01-27deb86def8a
+[https://github.com/istiwiska/TaskGeotrosoft/assets/22950110/8c57c6e5-6aa5-4273-8e01-27deb86def8a](https://drive.google.com/file/d/1Qt87ELItwKAPveTo1XTpdlo3bavxakr9/view?usp=sharing)
 
 report : 
 [image](https://github.com/istiwiska/TaskGeotrosoft/assets/22950110/1b073456-c4d4-4bee-9056-a56bf33d7a1a)
