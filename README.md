@@ -5,7 +5,6 @@ This an project for Pintu using Appium and cucumber for Java
 Make sure you have JAVA 11 or above installed to run this test
 
 There is the step : 
-
 Scenario Outline: As a customer, i want to checkout my cart
     Given I see the login form
     And I enter email in login email profiling
@@ -23,7 +22,8 @@ Scenario Outline: As a customer, i want to checkout my cart
     And I enter zip code
     And I click continue button
     And I click finish button
-    Then I should see Checkout Complete
+    Then I should see Checkout Complete 
+
 
     Examples:
       | title               | price  |
@@ -32,10 +32,11 @@ Scenario Outline: As a customer, i want to checkout my cart
 and to update udid or profile User you can update in config.properties
 
 to run this project you can run task.feature
-![image](https://github.com/istiwiska/TaskGeotrosoft/assets/22950110/df3c1474-b5cd-4d8b-80d5-ba106661fb71)
+[image](https://github.com/istiwiska/TaskGeotrosoft/assets/22950110/df3c1474-b5cd-4d8b-80d5-ba106661fb71)
 
 
 below i attached the video recording
 https://github.com/istiwiska/TaskGeotrosoft/assets/22950110/8c57c6e5-6aa5-4273-8e01-27deb86def8a
 
-![image](https://github.com/istiwiska/TaskGeotrosoft/assets/22950110/1b073456-c4d4-4bee-9056-a56bf33d7a1a)
+report : 
+[image](https://github.com/istiwiska/TaskGeotrosoft/assets/22950110/1b073456-c4d4-4bee-9056-a56bf33d7a1a)
